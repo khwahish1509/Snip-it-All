@@ -6,16 +6,18 @@
 * **Error Handling** : Includes try-catch blocks to prevent breaking the app if localStorage is unavailable
 
 
+
+```
 function UserSettings() {
   // Persist theme preference
-  const [theme, setTheme] = useLocalStorage('theme', 'light');
-
-  // Persist user settings
+  const [theme, setTheme] = useLocalStorage('theme', 'light');  // Persist user settings
   const [settings, setSettings] = useLocalStorage('userSettings', {
     notifications: true,
     language: 'en'
   });
 }
+
+```
 
 
 
