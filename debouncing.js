@@ -1,3 +1,5 @@
+//Limits the rate at which a function is executed (useful for search or resize events).
+
 function debounce (func, delay){
     let timer;
     return function (...args) {
