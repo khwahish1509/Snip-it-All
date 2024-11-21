@@ -15,7 +15,7 @@ function throttle(func, limit) {
                     func.apply(context, args);
                     lastRan = Date.now();
                 }
-            }, limit - (Date.now() - lastRan);
+            }, limit - (Date.now() - lastRan));
         }
     };
 }
@@ -23,4 +23,4 @@ function throttle(func, limit) {
 window.addEventListener(
     'scroll',
     throttle(() => console.log('scrolled!'), 1000)
-)
+);
