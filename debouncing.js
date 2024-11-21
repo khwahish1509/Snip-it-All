@@ -5,3 +5,8 @@ function debounce (func, delay){
         timer = setTimeout(() => func.apply(this, args), delay);
     };
 }
+// now lets make it use: 
+window.addEventListener(
+    'resize',
+    debounce(() => console.log('it has been resized!'), 300)
+);
