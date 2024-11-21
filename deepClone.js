@@ -8,3 +8,4 @@ function deepClone(obj){
 const original = {a: 1, b: {c: 2}};
 const clone = deepClone(original);
 clone.b.c = 42;
+console.log(original.b.c); //2
