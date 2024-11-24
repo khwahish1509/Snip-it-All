@@ -179,9 +179,8 @@ See CHANGELOG.md for detailed version history
 
 ## Contact
 
-- GitHub: [your-username]
-- Twitter: [@your-handle]
-- Email: your.email@example.com
+- GitHub: datadude42 and khwahish1509
+- Email: your. parassingh72634@gmail.com [Khwahish please add your email here ☺)
 
 ## Code of Conduct
 
