@@ -1,3 +1,12 @@
+/*A simple To-Do List React component 
+that allows users to add tasks to a 
+list dynamically. The app uses React 
+hooks (useState) for managing state. 
+Includes a text input field and a 
+button for adding items, along with 
+a list display for all tasks.
+*/
+
 import React, { useState } from 'react';
 
 const TodoApp = () => {
