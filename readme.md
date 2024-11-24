@@ -180,7 +180,7 @@ See CHANGELOG.md for detailed version history
 ## Contact
 
 - GitHub: datadude42 and khwahish1509
-- Email: your. parassingh72634@gmail.com [Khwahish please add your email here ☺)
+- Email: parassingh72634@gmail.com [Khwahish please add your email here ☺)
 
 ## Code of Conduct
 
