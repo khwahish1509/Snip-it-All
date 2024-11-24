@@ -179,8 +179,8 @@ See CHANGELOG.md for detailed version history
 
 ## Contact
 
-- GitHub: datadude42 and khwahish1509
-- Email: parassingh72634@gmail.com [Khwahish please add your email here ☺)
+- GitHub: datadude42 | khwahish1509
+- Email: parassingh72634@gmail.com | khwahishvaid07@gmail.com
 
 ## Code of Conduct
 
