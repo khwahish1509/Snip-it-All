@@ -23,3 +23,9 @@ int main() {
 
     return 0;
 }
+// You want to count word frequencies in a text while preserving the order of first appearance.
+
+// // Explanation
+// Unordered Map: Used for fast frequency counting.
+// List: Used to maintain the order of first appearances.
+// Pair: Stores frequency and iterator to the list for each word.
