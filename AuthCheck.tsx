@@ -1,3 +1,4 @@
+// very good snippet
 // components/AuthCheck.tsx
 import { getServerSession } from "next-auth/next";
 import { redirect } from "next/navigation";
@@ -18,6 +19,8 @@ export async function AuthCheck({
 }
 
 // Usage in a layout or page:
+
+
 // app/protected/layout.tsx
 export default async function ProtectedLayout({
   children,
