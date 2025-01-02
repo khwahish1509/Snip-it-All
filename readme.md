@@ -1,4 +1,4 @@
-# React & JavaScript Code Snippets Collection
+# React & JavaScript Code Snippets Collection 
 
 A comprehensive collection of production-ready code snippets, utilities, and components for modern React and JavaScript applications.
 
