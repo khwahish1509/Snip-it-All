@@ -1,5 +1,7 @@
 function flattenArray(arr){
-    return arr.flat(Infinity)
+    
+    return arr.flat(Infinity);
+    
 }
 
 //usage:-
