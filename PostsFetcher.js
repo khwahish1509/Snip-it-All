@@ -1,6 +1,6 @@
 /* This code snippet is a simple React app that fetches a list of posts from a fake 
-online API and displays them on the screen. It uses React's "useState" to store the 
-posts data and "useEffect" to make the API request when the app first loads. The app 
+online API and displays them on the screen. It uses React's "useState" 
+to store the posts data and "useEffect" to make the API request when the app first loads. The app 
 checks if the data is successfully fetched and shows a list of post titles. If the data 
 is still loading, it displays a "Loading..." message. If an error occurs while fetching 
 the data, it shows an error message. This is a basic example of how to fetch data from 
