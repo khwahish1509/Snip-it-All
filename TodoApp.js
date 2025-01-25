@@ -28,7 +28,9 @@ const TodoApp = () => {
         placeholder="Add a new item"
         value={newItem}
         onChange={(e) => setNewItem(e.target.value)}
+
         style={{ padding: '10px', marginRight: '10px' }}
+
       />
       <button onClick={addItem} style={{ padding: '10px 20px' }}>
         Add
