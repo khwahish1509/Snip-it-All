@@ -177,15 +177,7 @@ See CHANGELOG.md for detailed version history
 - [ ] Additional React hooks
 - [ ] More UI components
 
-## Contact
-
-- GitHub: datadude42 | khwahish1509
-- Email: parassingh72634@gmail.com | khwahishvaid07@gmail.com
-
-## Code of Conduct
-
-See CODE_OF_CONDUCT.md for details.
-
----
-
-Made with ❤️ by PARAS SINGH & KHWAHISH VAID
+## Authors
+- [Paras Singh](https://github.com/data-dude42)
+- [Khwahish Vaid](https://github.com/khwahish1509)
+- [Samarth Sharma](https://github.com/samartho4)
