@@ -100,21 +100,6 @@ Each section includes detailed examples showing:
 - Edge cases
 - Error handling
 
-## Performance Considerations
-
-- Optimized bundle size
-- Efficient rendering
-- Proper memoization
-- Resource management
-- Browser compatibility
-
-## Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-- Mobile browsers
 
 ## Contributing
 
@@ -132,13 +117,7 @@ Each section includes detailed examples showing:
 - Add/update tests as needed
 - Ensure all tests pass
 
-## Testing
 
-```bash
-npm run test
-# or
-yarn test
-```
 
 ## License
 
@@ -154,18 +133,7 @@ MIT License - see LICENSE.md
 
 See CHANGELOG.md for detailed version history
 
-## Authors
 
-- [Your Name]
-- [Contributors]
-
-## Acknowledgments
-
-- Inspiration sources
-- Related projects
-- Community contributions
-
-## Project Status
 
 🟢 Actively maintained and accepting contributions
 
@@ -177,15 +145,7 @@ See CHANGELOG.md for detailed version history
 - [ ] Additional React hooks
 - [ ] More UI components
 
-## Contact
-
-- GitHub: datadude42 | khwahish1509
-- Email: parassingh72634@gmail.com | khwahishvaid07@gmail.com
-
-## Code of Conduct
-
-See CODE_OF_CONDUCT.md for details.
-
----
-
-Made with ❤️ by PARAS SINGH & KHWAHISH VAID
+## Authors
+- [Paras Singh](https://github.com/data-dude42)
+- [Khwahish Vaid](https://github.com/khwahish1509)
+- [Samarth Sharma](https://github.com/samartho4)
